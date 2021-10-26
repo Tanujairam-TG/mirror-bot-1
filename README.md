@@ -55,6 +55,11 @@ magnet/torrents
 
 ## Credits :-
 
+## Deployment :-
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rootgamer9870-glitch/mirror-bot)
+
+
 - First of all, full credit goes to
   [Shivam Jha aka lzzy12](https://github.com/lzzy12) and
   [JaskaranSM aka Zero Cool](https://github.com/jaskaranSM) They build up this
